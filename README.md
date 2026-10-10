@@ -1,2 +1,1 @@
-# Freecam
-Freecam script roblox
+# others script roblox
